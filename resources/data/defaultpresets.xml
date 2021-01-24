@@ -282,7 +282,6 @@
     <chunk id="route_hikebike_optionals">
         <text key="ref" text="Reference" />
         <text key="operator" text="Operator" />
-        <text key="network" text="Network" />
         <text key="distance" text="Distance (kilometers)"/>
         <text key="ascent" text="Ascent (m)"/>
         <text key="descent" text="Descent (m)"/>
